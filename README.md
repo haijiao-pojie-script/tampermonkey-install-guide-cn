@@ -1,2 +1,35 @@
-# tampermonkey-install-guide-cn
-油猴 Tampermonkey 安装教程，支持 Chrome、Edge、Firefox、安卓和 iOS 脚本使用。
+# 油猴脚本安装教程｜Tampermonkey 新手使用指南
+
+这是一个面向新手的 Tampermonkey 油猴脚本安装教程，适合第一次接触用户脚本、浏览器增强脚本的用户。
+
+*本文持续整理中，最近整理于 2026-06-17。*
+
+如果你想在浏览器里使用视频增强、广告净化、播放辅助等脚本功能，可以从这里开始。
+
+## 支持环境
+
+- Chrome / Edge / Firefox
+- Tampermonkey 油猴扩展
+- 安卓狐猴浏览器 / Via 浏览器
+- iOS Safari + Stay 扩展
+
+## 🚀 推荐安装入口
+
+👉 <https://suban.vip/install>
+
+官方教程会根据你的设备给出对应安装方式，不用自己到处翻扩展商店。扩展商店和浏览器权限已经够会把人绕晕了，没必要再靠运气摸索。
+
+## 支持功能
+
+- 视频解析辅助
+- 页面广告净化
+- 播放体验增强
+- PC / 安卓 / iOS 多端使用
+
+## 🎁 新用户试用
+
+新用户注册后可免费试用 24 小时。
+
+## 💬 帮助支持
+
+TG 客服：<https://t.me/suban_support>
